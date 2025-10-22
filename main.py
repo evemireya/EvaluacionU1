@@ -15,3 +15,5 @@ while adivinado != numero_secreto:
         print(f"""Kaboooom. numero de intentos excedidos
                Ha perdido""")
         break 
+    
+    print("Lo he logrado")
